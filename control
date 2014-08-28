@@ -1,0 +1,10 @@
+Package: dhcpgag
+Version: 0.2
+Section: base
+Priority: optional
+Architecture: all
+Depends: python (>= 2.6), python-scapy(>= 2.2.0)
+Maintainer: Bram Staps <b.staps@glasswall.nl>
+Installed-Size: 16
+Description: Dhcp Gag
+ Tool set to dos a specific dhcp server in such a fasion that requires minimal traffic.
